@@ -1,9 +1,9 @@
-# Co2 Emissions Analysis
-Data Source:
-https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv
-Statistical review of world energy (Energy Institute, EI)
-International energy data (U.S. Energy Information Administration, EIA)
-Global carbon budget - Fossil CO2 emissions (Global Carbon Project)
+## Co2 Emissions Analysis
+# Data Source:
+- https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv
+- Statistical review of world energy (Energy Institute, EI)
+- International energy data (U.S. Energy Information Administration, EIA)
+- Global carbon budget - Fossil CO2 emissions (Global Carbon Project)
 Primary energy consumption (Our World in Data based on EI's Statistical review of world energy & EIA's International energy data)
 Global carbon budget - Fossil CO2 emissions (Global Carbon Project) Source data
 Global carbon budget - Global carbon emissions (Global Carbon Project) Source data
