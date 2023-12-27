@@ -1,6 +1,6 @@
-## Co2 Emissions Analysis
-The analysis presented here offers a detailed examination of Canadian CO2 emissions trends, placed within the broader framework of global emission metrics. \
-# Data Source:
+# Co2 Emissions Analysis
+The analysis presented here offers a detailed examination of Canadian CO2 emissions trends, placed within the broader framework of global emission metrics. 
+## Data Source:
 - https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv
 - Statistical review of world energy (Energy Institute, EI)
 - International energy data (U.S. Energy Information Administration, EIA)
